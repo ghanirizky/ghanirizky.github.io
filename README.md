@@ -1,1 +1,0 @@
-# ghanirizky.github.io
