@@ -1,1 +1,1 @@
-My simple portofolio website: <a href = "ghanirizky.github.io" target="_blank">ghanirizky.github.io</a>
+My simple portofolio website: [Link to Web](https://ghanirizky.github.io)
